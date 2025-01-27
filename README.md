@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gagandeepsingh04&label=Profile%20views&color=0e75b6&style=flat" alt="gagandeepsingh04" /> </p>
 
-- 🔭 I’m currently working on [data science salary analysis](https://github.com/gagandeepsingh04/data-scientist-salary-analysis)
+- 🔭 I’m currently working on [car_data_project](https://github.com/gagandeepsingh04/car_data_project)
 
 - 🌱 I’m currently learning **Machine Learning**
 
